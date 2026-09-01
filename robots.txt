@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://flowhomemusic.github.io/flow-home-music/sitemap.xml
